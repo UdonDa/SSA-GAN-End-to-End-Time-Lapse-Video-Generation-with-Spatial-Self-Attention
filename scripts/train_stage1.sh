@@ -1,0 +1,1 @@
+python src/main.py --mode train --exp_name stage1 --attention_type HW --c_cal 1 --my_model True --dataset cloud --stage1 True --stage2 False 

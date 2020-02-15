@@ -1,0 +1,3 @@
+deploy.sh
+*__pycache__*
+results/
